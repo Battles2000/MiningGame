@@ -1,0 +1,18 @@
+E:\Game v.1\Game v.1\bin\Debug\Game v.1.exe.config
+E:\Game v.1\Game v.1\bin\Debug\Game v.1.exe
+E:\Game v.1\Game v.1\bin\Debug\Game v.1.pdb
+E:\Game v.1\Game v.1\obj\Debug\Game v.1.csprojResolveAssemblyReference.cache
+E:\Game v.1\Game v.1\obj\Debug\Game_v._1.Form1.resources
+E:\Game v.1\Game v.1\obj\Debug\Game_v._1.Properties.Resources.resources
+E:\Game v.1\Game v.1\obj\Debug\Game v.1.csproj.GenerateResource.Cache
+E:\Game v.1\Game v.1\obj\Debug\Game v.1.exe
+E:\Game v.1\Game v.1\obj\Debug\Game v.1.pdb
+F:\Game v.1\Game v.1\bin\Debug\Game v.1.exe.config
+F:\Game v.1\Game v.1\bin\Debug\Game v.1.exe
+F:\Game v.1\Game v.1\bin\Debug\Game v.1.pdb
+F:\Game v.1\Game v.1\obj\Debug\Game v.1.csprojResolveAssemblyReference.cache
+F:\Game v.1\Game v.1\obj\Debug\Game_v._1.Form1.resources
+F:\Game v.1\Game v.1\obj\Debug\Game_v._1.Properties.Resources.resources
+F:\Game v.1\Game v.1\obj\Debug\Game v.1.csproj.GenerateResource.Cache
+F:\Game v.1\Game v.1\obj\Debug\Game v.1.exe
+F:\Game v.1\Game v.1\obj\Debug\Game v.1.pdb
